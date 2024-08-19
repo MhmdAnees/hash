@@ -1,0 +1,35 @@
+#main{
+    height: 450px;
+    background-color: rgb(255, 255, 255);
+}
+#main2{
+    height: 250px;
+    background-color: #763576;
+}
+.down{
+    height: 258px;
+    background-color: rgb(255, 255, 255);
+    width: 185px;
+    box-shadow: 1px 1px 12px 8px violet;
+    margin-left: 60px;
+    text-align: center;
+}
+#All{
+    box-shadow: 1px 1px 12px 8px violet;
+    padding: 0px;
+    margin-left: 50px;
+}
+#maintext{
+    color: rgb(241, 201, 241);
+    font-size: 66px;
+    font-family: auto;
+    text-align: center;
+}
+#calicut{
+    text-align: center;
+    color: grey;
+    font-size: 20px;
+}
+.gyap{
+    padding: 10px;
+}
